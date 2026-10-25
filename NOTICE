@@ -1,0 +1,9 @@
+Original SameLoop UI code is MIT-licensed; see LICENSE.
+
+linux/CMakeLists.txt, linux/runner/* and linux/flutter/CMakeLists.txt are
+adapted from Flutter SDK application templates at commit
+adc901062556672b4138e18a4dc62a4be8f4b3c2 (tag 3.35.7).
+Copyright 2014 The Flutter Authors. All rights reserved.
+The Flutter BSD 3-Clause license is reproduced in third_party/FLUTTER-LICENSE.
+
+Flutter and its transitive dependencies retain their upstream licenses.
